@@ -1,5 +1,5 @@
 ===================================================================
-SUPER ANTICS! - XNA GAME
+SUPER ANTICS! - XNA GAME for Windows 7
 ===================================================================
 
 https://github.com/catigator/SuperAntics
@@ -13,6 +13,8 @@ Sweden 2013
 ===================================================================
 TO RUN:
 ===================================================================
+
+Clone this repository or download it as a zip file and extract it.
 
 Unrar the Install.rar file and run setup.exe. To uninstall, you need to go to the Control Panel and uninstall it from the Programs and Features list.
 
