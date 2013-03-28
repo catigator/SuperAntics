@@ -16,7 +16,7 @@ TO RUN:
 
 Clone this repository or download it as a zip file and extract it.
 
-Unrar the Install.rar file and run setup.exe. To uninstall, you need to go to the Control Panel and uninstall it from the Programs and Features list.
+Unrar the Install.rar file and run setup.exe. After you install it you can just run it from the Start menu. To uninstall, you need to go to the Control Panel and uninstall it from the Programs and Features list.
 
 You can also check out the source code yourself. If you don't have Visual Studio for C# installed, download and install Microsoft Visual Studio 2010 Express for Windows Phone at http://www.microsoft.com/visualstudio/eng/downloads#d-2010-express . This will install the XNA framework as well.
 
