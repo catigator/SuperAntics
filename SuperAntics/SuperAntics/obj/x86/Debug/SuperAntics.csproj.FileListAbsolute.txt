@@ -32,3 +32,7 @@ C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\Supe
 C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\obj\x86\Debug\SuperAntics.exe
 C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\obj\x86\Debug\SuperAntics.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\SuperAntics.exe.manifest
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\SuperAntics.application
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\obj\x86\Debug\SuperAntics.exe.manifest
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\obj\x86\Debug\SuperAntics.application
