@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2011-02-21T09:40:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Ant1.png</Source>
+      <Name>Images\Ant1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\Ant1.xnb</Output>
+      <Time>2013-03-27T10:41:14.5506298+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Ant2.png</Source>
+      <Name>Images\Ant2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\Ant2.xnb</Output>
+      <Time>2013-03-27T10:41:14.5516299+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Ant3.png</Source>
+      <Name>Images\Ant3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\Ant3.xnb</Output>
+      <Time>2013-03-27T10:41:14.5466296+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AntQueen.png</Source>
+      <Name>Images\AntQueen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\AntQueen.xnb</Output>
+      <Time>2013-03-27T10:41:14.5476296+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\blocks.png</Source>
+      <Name>Images\blocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\blocks.xnb</Output>
+      <Time>2013-03-27T10:41:14.5476296+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Blood.png</Source>
+      <Name>Images\Blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\Blood.xnb</Output>
+      <Time>2013-03-27T10:41:14.5486297+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Ground.png</Source>
+      <Name>Images\Ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\Ground.xnb</Output>
+      <Time>2013-03-27T10:41:14.5486297+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Hollow.png</Source>
+      <Name>Images\Hollow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\Hollow.xnb</Output>
+      <Time>2013-03-27T10:41:14.5496298+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\logo.png</Source>
+      <Name>Images\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\logo.xnb</Output>
+      <Time>2013-03-27T10:41:14.5496298+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MessageBox.png</Source>
+      <Name>Images\MessageBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\Images\MessageBox.xnb</Output>
+      <Time>2011-02-21T09:40:52+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAnticsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAnticsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\SuperAntics\SuperAntics\SuperAntics\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T14:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T14:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T14:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T14:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T14:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T14:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-22T20:57:37.0637953+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

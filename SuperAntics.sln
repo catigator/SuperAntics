@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAntics", "SuperAntics\SuperAntics\SuperAntics.csproj", "{B856F574-24FB-41BB-B2B4-73DB87EE4BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAnticsContent", "SuperAntics\SuperAnticsContent\SuperAnticsContent.contentproj", "{33C741A3-82E4-4E01-BCE6-6892764FFFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B856F574-24FB-41BB-B2B4-73DB87EE4BCA}.Debug|x86.ActiveCfg = Debug|x86
+		{B856F574-24FB-41BB-B2B4-73DB87EE4BCA}.Debug|x86.Build.0 = Debug|x86
+		{B856F574-24FB-41BB-B2B4-73DB87EE4BCA}.Release|x86.ActiveCfg = Release|x86
+		{B856F574-24FB-41BB-B2B4-73DB87EE4BCA}.Release|x86.Build.0 = Release|x86
+		{33C741A3-82E4-4E01-BCE6-6892764FFFFA}.Debug|x86.ActiveCfg = Debug|x86
+		{33C741A3-82E4-4E01-BCE6-6892764FFFFA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
