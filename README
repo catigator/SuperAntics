@@ -1,5 +1,6 @@
-Super Antics,  XNA Game
-=======================
+===================================================================
+SUPER ANTICS! - XNA GAME
+===================================================================
 
 https://github.com/catigator/SuperAntics
 
@@ -8,3 +9,21 @@ Made as a project to learn C# and XNA, and submitted as a March entry to the One
 Jakob Pettersson Peeker
 jakob.peeker@gmail.com
 Sweden 2013
+
+===================================================================
+TO INSTALL:
+===================================================================
+
+Double-click the setup.exe file located in this folder. The installer will download and install the .NET and XNA frameworks if you don't have them already.
+
+The game will be able to start from the Start Menu. To uninstall it, you will need to go to the Control Panel and go to Programs and Features, and install it from there.
+
+===================================================================
+GAME INSTRUCTIONS:
+===================================================================
+
+You are the green ant and the blue ants are out to get you. ry to survive as long as possible! You control your ant with the arrow keys. You can walk twice as fast when in already hollowed out tunnels compared to digging new ones. This means you will need to build tunnels strategically to survive; try to to lure the enemy ants to dig new tunnels while you use already dug ones. 
+
+Your green ant is faster than the enemy ants, but if you have to dig new tunnels while they can follow in your footsteps you will die sooner rather than later.
+
+You can change the speed of the game and the number of enemy ants in the intro screen.
